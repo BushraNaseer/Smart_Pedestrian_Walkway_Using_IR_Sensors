@@ -128,7 +128,7 @@ The brightness levels, hold time and fade speeds are constants at the top of the
 ```
 smart-pedestrian-walkway/
 ├── README.md
-├── smart_pedestrian_walkway/
+├── arduino_code/
 │   └── smart_pedestrian_walkway.ino
 └── images/
     ├── hardware_annotated.png
